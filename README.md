@@ -4,7 +4,7 @@ This is a simple flask-react app which takes an URL and shortens it. This shorte
 
 For each long URL given by the user the application randomly generates an alphabetical combination which redirects to the long URL.
 #
-Before starting the app, we might have to run some commandline (assuming we already have python3 and nodeJS installed)
+Before starting the app, we  have to run some commandline (assuming python3 and nodeJS are already installed)
 
   - pip3 install virtualenv 
   
